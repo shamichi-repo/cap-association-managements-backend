@@ -1,0 +1,9 @@
+apiVersion: solution.sap/v1
+kind: Solution
+
+metadata:
+  name: my-solution-940cf
+  version: "1.0.0"
+  description: "Empty solution scaffold — connect your GitHub repositories to populate assets"
+
+assets: []
